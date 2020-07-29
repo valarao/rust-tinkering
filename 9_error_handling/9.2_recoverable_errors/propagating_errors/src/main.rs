@@ -42,5 +42,4 @@ fn main() {
     let x = read_username_from_file_question();
     let x = read_username_from_file_question_chaining();
     let x = read_username_from_file_std();
-
 }
